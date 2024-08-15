@@ -18,7 +18,7 @@
         "@rushstack/eslint-patch": "1.7.0",
         "@types/eslint__eslintrc": "^2.1.2",
         "@types/eslint-scope": "3.7.7",
-        "@types/eslint": "^8.56.10",
+        "@types/eslint": "^9.0.0",
         "@typescript-eslint/eslint-plugin": "6.7.2",
         "@typescript-eslint/parser": "6.7.2",
         "@typescript-eslint/rule-tester": "6.7.2",
