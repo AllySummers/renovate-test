@@ -51,7 +51,7 @@
         "eslint-plugin-relay": "1.8.3",
         "eslint-plugin-storybook": "0.8.0",
         "eslint-plugin-styled-components-a11y": "2.1.31",
-        "eslint-plugin-testing-library": "6.2.2",
+        "eslint-plugin-testing-library": "6.3.0",
         "eslint-plugin-unicorn": "48.0.1",
         "eslint-rule-composer": "0.3.0",
         "eslint-scope": "8.0.1",
