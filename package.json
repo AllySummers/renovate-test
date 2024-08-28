@@ -14,7 +14,7 @@
         "@compiled/eslint-plugin": "^0.13.9",
         "@eslint-community/eslint-utils": "4.4.0",
         "@eslint-community/regexpp": "4.8.0",
-        "@eslint/eslintrc": "^2.1.2",
+        "@eslint/eslintrc": "^3.0.0",
         "@rushstack/eslint-patch": "1.7.0",
         "@types/eslint__eslintrc": "^2.1.2",
         "@types/eslint-scope": "3.7.7",
