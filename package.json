@@ -38,7 +38,7 @@
         "eslint-plugin-cypress": "3.3.0",
         "eslint-plugin-es": "3.0.1",
         "eslint-plugin-eslint-comments": "3.2.0",
-        "eslint-plugin-formatjs": "4.13.1",
+        "eslint-plugin-formatjs": "4.13.3",
         "eslint-plugin-graphql": "4.0.0",
         "eslint-plugin-import": "^2.26.0",
         "eslint-plugin-jest": "^27.9.0",
